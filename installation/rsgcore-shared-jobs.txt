@@ -1,0 +1,40 @@
+['schmiedsaintdenise'] = {
+        label = 'Schmied SaintDenise',
+        defaultDuty = false,
+        offDutyPay = false,
+        grades = {
+            ['0'] = { name = 'Chef',isboss = true, payment = 25 },
+            ['1'] = { name = 'Mitarbeiter', payment = 30 },
+
+        },
+    },
+    ['schmiedblackwater'] = {
+        label = 'Schmied Blackwater',
+        defaultDuty = false,
+        offDutyPay = false,
+        grades = {
+            ['0'] = { name = 'Chef',isboss = true, payment = 25 },
+            ['1'] = { name = 'Mitarbeiter', payment = 30 },
+
+        },
+    },
+    ['schmiedrhodes'] = {
+        label = 'Schmied Rhodes',
+        defaultDuty = false,
+        offDutyPay = false,
+        grades = {
+            ['0'] = { name = 'Chef',isboss = true, payment = 25 },
+            ['1'] = { name = 'Mitarbeiter', payment = 30 },
+
+        },
+    },
+    ['schmiedvalentine'] = {
+        label = 'Schmied Valentine',
+        defaultDuty = false,
+        offDutyPay = false,
+        grades = {
+            ['0'] = { name = 'Chef', isboss = true, payment = 25 },
+            ['1'] = { name = 'Mitarbeiter', payment = 30 },
+
+        },
+    },
